@@ -1,10 +1,11 @@
+#  Chit-Chat: Explore Real-Time Conversations
 Live Link:https://chit-chat-51dv.onrender.com
 
-Project Description:-
+# Project Description:-
 
 ◦ Developed a real-time chat application utilizing MERN stack, Socket.io, and TailwindCSS for seamless communication with JWT authentication and online user status tracking. Implemented Zustand for efficient global state management and robust error handling for enhanced reliability
 
-Application Features:-
+# Application Features:-
 
 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
 
